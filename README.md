@@ -20,4 +20,3 @@ Saya sekarang Mahasiswa S1 Sains Data di Institut Teknologi Sumatera (Itera).\
 Saya sekarang sedang mempelajari Pemrograman dasar (C++ dan Python), dan SQL.\
 \
 Jika kamu tertarik untuk berkenalan denganku, dapat berkenalan di [Instagram](https://www.instagram.com/dimaswsss/)ku ya.
-\
