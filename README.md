@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 # Halo semua! 
 ### Hi there 👋
@@ -20,3 +20,4 @@ Saya sekarang Mahasiswa S1 Sains Data di Institut Teknologi Sumatera (Itera).\
 Saya sekarang sedang mempelajari Pemrograman dasar (C++ dan Python), dan SQL.\
 \
 Jika kamu tertarik untuk berkenalan denganku, dapat berkenalan di [Instagram](https://www.instagram.com/dimaswsss/)ku ya.
+-->
