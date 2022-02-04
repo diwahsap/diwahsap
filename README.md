@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 
 # Hi! 
 I'm *Dimas Wahyu Saputro*, an lifelong learner who does things sometimes and occasionally writes about them.
-I'm currently exploring Data Science, 
+I'm currently exploring Data Science.
 
-The best way to get in touch with me is to email dim.mas.ws@gmail.com.
+The best way to get in touch with me is to email dim.mas.ws@gmail.com
+
+\
+Cheers 😊 \
+Dimas
