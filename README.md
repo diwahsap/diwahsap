@@ -11,13 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-# Halo semua! 
-### Hi there 👋
-Perkenalkan nama saya **Dimas Wahyu Saputro**.\
-Saya sekarang Mahasiswa S1 Sains Data di Institut Teknologi Sumatera (Itera).\
-Saya sekarang sedang mempelajari Pemrograman dasar (C++ dan Python), dan SQL.\
-\
-Jika kamu tertarik untuk berkenalan denganku, dapat berkenalan di [Instagram](https://www.instagram.com/dimaswsss/)ku ya.
 -->
+
+# Hi! 
+I'm *Dimas Wahyu Saputro*, an lifelong learner who does things sometimes and occasionally writes about them.
+I'm currently exploring Data Science, 
+
+The best way to get in touch with me is to email dim.mas.ws@gmail.com.
