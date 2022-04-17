@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi! 
-I'm *Dimas Wahyu Saputro*, a lifelong learner who does things sometimes and occasionally writes about them.
+I'm *Dimas Wahyu Saputro*, a lifelong learner.
 I'm currently exploring Data Science.
 
 The best way to get in touch with me is to email dim.mas.ws@gmail.com
