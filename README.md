@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 
 ### 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,r,java,matlab,latex,git,github" />
-
+<img src="https://skillicons.dev/icons?i=python,r,java,matlab" />
+<img src="https://skillicons.dev/icons?i=latex,git,github" />
 
 ### ⚙️ &nbsp;GitHub Analytics
 
