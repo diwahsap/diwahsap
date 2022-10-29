@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🧒🏻 &nbsp;My name is Dimas Wahyu Saputro and I'm studying to become a Full Stack Data Dev\
+🧒🏻 &nbsp;My name is Dimas Wahyu Saputro and I'm studying to become a Full Stack Data\
 🎓 &nbsp;I'm currently in the fifth semester of Data Science at Sumatera Institute of Technology.\
-📺 &nbsp;In my free time, I like to watch series or movies and play video games.\
-🎵 &nbsp;I also enjoy listening to music.\
+🎵 &nbsp;In my free time, I enjoy listening to music\
 ✉️ &nbsp;You can shoot me an email at dim.mas.ws@gmail.com and I'll try to respond as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
