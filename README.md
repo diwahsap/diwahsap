@@ -22,19 +22,9 @@ Here are some ideas to get you started:
 🎵 &nbsp;In my free time, I enjoy listening to music\
 ✉️ &nbsp;You can shoot me an email at dim.mas.ws@gmail.com and I'll try to respond as soon as I can.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,r,java,matlab" />
 <img src="https://skillicons.dev/icons?i=latex,git,github" />
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/dimaswsss">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dimaswsss&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimaswsss&layout=compact&theme=dark&langs_count=6&hide=jupyter%20Notebook" />
-</a>
-</p>
 
