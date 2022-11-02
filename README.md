@@ -5,7 +5,6 @@
 [![github](https://img.shields.io/badge/dimaswsss-12100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dimaswsss/)
 
 &nbsp;
-&nbsp;
 # 👨🏻‍💻  About Me
 
 🧒🏻 &nbsp;My name is Dimas Wahyu Saputro and I'm studying to become a Full Stack Data\
@@ -14,12 +13,10 @@
 ✉️ &nbsp;You can shoot me an email at dim.mas.ws@gmail.com and I'll try to respond as soon as I can.
 
 &nbsp;
-&nbsp;
 # 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,r,java,matlab,latex,git,github" />
 
-&nbsp;
 &nbsp;
 # 📊 Github stats  
 
@@ -43,3 +40,7 @@
   <img src="https://komarev.com/ghpvc/?username=dimaswsss&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
+
+![alt text](./assets/name_werlcome_dark.png)
+
+###
