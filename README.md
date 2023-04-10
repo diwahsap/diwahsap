@@ -11,7 +11,7 @@
 ✉️ &nbsp;You can shoot me an email at dim.mas.ws@gmail.com and I'll try to respond as soon as I can.
 
 # 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=python,r,java,matlab,latex,git,github" />
+<img src="https://skillicons.dev/icons?i=python,r,git,github" />
 
 # 📊 Github stats  
 
